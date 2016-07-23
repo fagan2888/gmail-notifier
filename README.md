@@ -47,6 +47,10 @@ If you don't check your email frequently, but also don't want to miss out on imp
   
               PhoneNumber -----> 9569252871
               
+              
+   (f). EmailId For which you want to receive notifications -----> email-id
+
+              GmailId For which you want to receive notifications -----> harichanderarora7001@gmail.com
 
 
 3. And Done! You'll receive sms on your PhoneNumber whenever you'll execute:
