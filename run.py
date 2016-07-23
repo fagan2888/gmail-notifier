@@ -52,7 +52,7 @@ for m in msgnum:
 		username = Way2SMSLogin
 		passwd = Way2SMSPassword
 		number = PhoneNumber
-		message ="An Email was sent by %s with subject : %s on %s .Please ask goru to show it to you. " % (EmailIdForNotifications,email_message['subject'],email_message['date'])
+		message ="An Email was sent by %s with subject : %s on %s .Please see it." % (EmailIdForNotifications,email_message['subject'],email_message['date'])
 
 		#logging into the sms site
 		url ='http://site24.way2sms.com/Login1.action?'
